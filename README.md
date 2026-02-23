@@ -14,3 +14,5 @@ Test credential store
 ## Wordcount Script
 How to run:
 ./scripts/wordcount.sh filename
+
+Edited directly on GitHub
