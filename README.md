@@ -9,3 +9,4 @@ open Pull Requests (PR)
 handle updates (fetch/pull)
 
 tag a release
+Test credential store
