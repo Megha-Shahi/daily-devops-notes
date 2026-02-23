@@ -10,3 +10,7 @@ handle updates (fetch/pull)
 
 tag a release
 Test credential store
+
+## Wordcount Script
+How to run:
+./scripts/wordcount.sh filename
